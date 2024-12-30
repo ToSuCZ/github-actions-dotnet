@@ -1,5 +1,6 @@
 namespace GitHubActionsDotNet.Api.Models;
 
+// a nice comment
 public record WeatherForecast
 {
     public DateOnly Date { get; init; }
